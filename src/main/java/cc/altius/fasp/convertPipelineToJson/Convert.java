@@ -65,7 +65,6 @@ public class Convert {
                     sb.setLength(sb.length() - 1);
                 }
                 sb.append("],");
-                break;
             }
 
         } catch (SQLException ex) {
